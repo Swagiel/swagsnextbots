@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "npc_nardwuar/nardwuar"
+	"$translucent" 1
+	"$vertexalpha" 1
+}
