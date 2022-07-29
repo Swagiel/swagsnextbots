@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "npc_mokou/mokou"
+	"$alphatest" 1
+}
